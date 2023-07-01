@@ -5,7 +5,7 @@ Kun</a></h1>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thekun97/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/np-2708-nam/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:npnam.techii@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_scholar-blue)](https://scholar.google.com/citations?hl=en&user=f3M9DAoAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google_scholar-blue?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=f3M9DAoAAAAJ)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
