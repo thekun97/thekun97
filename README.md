@@ -51,6 +51,11 @@ Kun</a></h1>
 </a> -->
 
 <br/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://raw.githubusercontent.com/thekun97/thekun97/main/images/angry-2498.gif">
+</a>
+
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
