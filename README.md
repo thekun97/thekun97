@@ -12,16 +12,22 @@ Kun</a></h1>
 </a>
 
 **Talking about Personal Stuffs:**
-- 🤝 ...
+-  Backend & DevOps
+-  Cryptography & Blockchain
+-  🌱 I’m currently researching Cryptography & Blockchain
+-  👯 I'm always looking for someone with the same passion as me
+-  ❤️ I love writing Rust
+-  Fun-Fact: I will collect all titles in the IT profession :">
+- 📫 How to reach me: npnam.techii@gmail.com
 
 <br/>
 
 **Languages and Tools:**
 
 <p>
-<!--   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a> -->
+  <a href="https://github.com/thekun97">
+    <img width="55%" align="right" alt="Kun's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thekun97&show_icons=true&hide_border=true" />
+  </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -46,10 +52,6 @@ Kun</a></h1>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 </p>
-
-<!-- <a href="https://github.com/onimur/handle-path-oz">
-  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-</a> -->
 
 <br/>
 <a target="_blank" align="center">
