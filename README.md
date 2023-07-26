@@ -16,7 +16,7 @@ Kun</a></h1>
 -  Cryptography & Blockchain
 -  🌱 I’m currently researching Cryptography & Blockchain
 -  👯 I'm always looking for someone with the same passion as me
--  ❤️ I love writing Rust
+-  ❤️ Go & Rust
 -  Fun-Fact: I will collect all titles in the IT profession :">
 - 📫 How to reach me: npnam.techii@gmail.com
 
