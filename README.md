@@ -13,10 +13,9 @@ Kun</a></h1>
 
 **Talking about Personal Stuffs:**
 -  Backend & DevOps
--  Cryptography & Blockchain
--  🌱 I’m currently researching Cryptography & Blockchain
+-  🌱 I’m currently researching Data & Architectures 
 -  👯 I'm always looking for someone with the same passion as me
--  ❤️ Go & Rust
+-  ❤️ Python & Go
 -  Fun-Fact: I will collect all titles in the IT profession :">
 - 📫 How to reach me: npnam.techii@gmail.com
 
@@ -44,12 +43,8 @@ Kun</a></h1>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 </p>
 
